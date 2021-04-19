@@ -2,5 +2,5 @@
 ---
 Trolled :)  
 
-<embed src="You Failed!.mp3" loop="false" autostart="true" width="2"
-         height="0">
+<audio controls>
+  <source src="You Failed!.mp3" type="audio/mpeg">
